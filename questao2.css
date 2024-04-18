@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+}
+
+.block1{
+    background-color: red;
+    width: 400px;
+    height: 175px;
+    margin: 40px 0 0 30px;
+    border: 5px solid;
+}
+
+.block2{
+    background-color: blue;
+    width: 70%;
+    height: 175px;
+    margin: 40px 0 0 30px;
+    border: 5px solid;
+}
+
+#block3{
+    background-color: yellow;
+    width: 93.5%;
+    height: 175px;
+    margin: 40px 0 0 30px;
+    border: 5px solid;
+}
